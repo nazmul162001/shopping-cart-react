@@ -1,0 +1,11 @@
+.amount-container{
+  position: absolute;
+  top: -.85rem;
+  right: .85rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  background-color: #1e3163;
+  display: flex;
+  justify-content: center;
+}
